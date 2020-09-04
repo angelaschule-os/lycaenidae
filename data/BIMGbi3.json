@@ -1,0 +1,226 @@
+{
+    "abiextern": {
+        "kopf": {
+            "schulname": "Angelaschule Osnabrück",
+            "schulort": "Osnabrück",
+            "bundesland": "Ni",
+            "abiversion": "Indiware Unterrichtsplaner Version 5 (5.05.014)"
+        },
+        "kurse": {
+            "kurs": {
+                "kurzform": "bi3",
+                "langform": "Biologie Kurs 3 (grundl. Niveau)",
+                "kursart": "G",
+                "semithema": "",
+                "modsemi": 1,
+                "modkursthema": 1,
+                "kursleiter": "BIM",
+                "kurshalbjahre": {
+                    "hj1": 1
+                },
+                "schueler": [
+                    {
+                        "nachname": "McKeveney",
+                        "vorname": "Justis",
+                        "geburtsdatum": "06.12.2019",
+                        "semihj": 4,
+                        "semipu": 1,
+                        "semithema1": "Donec quis orci eget orci vehicula condimentum.",
+                        "semithema2": "Integer tincidunt ante vel ipsum.",
+                        "prnr": 2
+                    },
+                    {
+                        "nachname": "Pablos",
+                        "vorname": "Alec",
+                        "geburtsdatum": "23.11.2019",
+                        "semihj": 5,
+                        "semipu": 1,
+                        "semithema1": "Etiam justo.",
+                        "semithema2": "Suspendisse ornare consequat lectus.",
+                        "prnr": 4
+                    },
+                    {
+                        "nachname": "Styant",
+                        "vorname": "Oates",
+                        "geburtsdatum": "25.07.2020",
+                        "semihj": 9,
+                        "semipu": 0,
+                        "semithema1": "Praesent lectus.",
+                        "semithema2": "Vestibulum rutrum rutrum neque.",
+                        "prnr": 1
+                    },
+                    {
+                        "nachname": "Macon",
+                        "vorname": "Marina",
+                        "geburtsdatum": "27.11.2019",
+                        "semihj": 7,
+                        "semipu": 1,
+                        "semithema1": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est.",
+                        "semithema2": "Sed vel enim sit amet nunc viverra dapibus.",
+                        "prnr": 6
+                    },
+                    {
+                        "nachname": "Dixon",
+                        "vorname": "Gusty",
+                        "geburtsdatum": "22.12.2019",
+                        "semihj": 2,
+                        "semipu": 1,
+                        "semithema1": "Praesent blandit lacinia erat.",
+                        "semithema2": "Nunc rhoncus dui vel sem.",
+                        "prnr": 3
+                    },
+                    {
+                        "nachname": "Villa",
+                        "vorname": "Arlan",
+                        "geburtsdatum": "15.05.2020",
+                        "semihj": 1,
+                        "semipu": 1,
+                        "semithema1": "Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo.",
+                        "semithema2": "Donec semper sapien a libero.",
+                        "prnr": 5
+                    },
+                    {
+                        "nachname": "Sully",
+                        "vorname": "Rubia",
+                        "geburtsdatum": "19.08.2020",
+                        "semihj": 5,
+                        "semipu": 0,
+                        "semithema1": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam.",
+                        "semithema2": "Donec ut dolor.",
+                        "prnr": 5
+                    },
+                    {
+                        "nachname": "Klimaszewski",
+                        "vorname": "Rafaelita",
+                        "geburtsdatum": "10.08.2020",
+                        "semihj": 8,
+                        "semipu": 0,
+                        "semithema1": "Nulla facilisi.",
+                        "semithema2": "Nulla ut erat id mauris vulputate elementum.",
+                        "prnr": 1
+                    },
+                    {
+                        "nachname": "Jandl",
+                        "vorname": "Gibb",
+                        "geburtsdatum": "22.09.2019",
+                        "semihj": 5,
+                        "semipu": 0,
+                        "semithema1": "Curabitur in libero ut massa volutpat convallis.",
+                        "semithema2": "Aliquam sit amet diam in magna bibendum imperdiet.",
+                        "prnr": 2
+                    },
+                    {
+                        "nachname": "Illing",
+                        "vorname": "Bendick",
+                        "geburtsdatum": "19.02.2020",
+                        "semihj": 3,
+                        "semipu": 0,
+                        "semithema1": "Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci.",
+                        "semithema2": "Vestibulum sed magna at nunc commodo placerat.",
+                        "prnr": 1
+                    },
+                    {
+                        "nachname": "Esslemont",
+                        "vorname": "Eran",
+                        "geburtsdatum": "09.02.2020",
+                        "semihj": 7,
+                        "semipu": 1,
+                        "semithema1": "Donec posuere metus vitae ipsum.",
+                        "semithema2": "Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis.",
+                        "prnr": 1
+                    },
+                    {
+                        "nachname": "Bodicum",
+                        "vorname": "Cicily",
+                        "geburtsdatum": "01.10.2019",
+                        "semihj": 7,
+                        "semipu": 1,
+                        "semithema1": "Donec ut mauris eget massa tempor convallis.",
+                        "semithema2": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam.",
+                        "prnr": 4
+                    },
+                    {
+                        "nachname": "Scullin",
+                        "vorname": "Jarrod",
+                        "geburtsdatum": "25.09.2019",
+                        "semihj": 7,
+                        "semipu": 1,
+                        "semithema1": "Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue.",
+                        "semithema2": "Donec ut mauris eget massa tempor convallis.",
+                        "prnr": 5
+                    },
+                    {
+                        "nachname": "Bouzan",
+                        "vorname": "Melli",
+                        "geburtsdatum": "26.03.2020",
+                        "semihj": 8,
+                        "semipu": 1,
+                        "semithema1": "Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo.",
+                        "semithema2": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam.",
+                        "prnr": 2
+                    },
+                    {
+                        "nachname": "Guilford",
+                        "vorname": "Rufus",
+                        "geburtsdatum": "10.05.2020",
+                        "semihj": 3,
+                        "semipu": 1,
+                        "semithema1": "Aenean sit amet justo.",
+                        "semithema2": "Nullam sit amet turpis elementum ligula vehicula consequat.",
+                        "prnr": 6
+                    },
+                    {
+                        "nachname": "Asquez",
+                        "vorname": "Barnaby",
+                        "geburtsdatum": "28.04.2020",
+                        "semihj": 2,
+                        "semipu": 0,
+                        "semithema1": "Nulla justo.",
+                        "semithema2": "Donec semper sapien a libero.",
+                        "prnr": 2
+                    },
+                    {
+                        "nachname": "Veschambes",
+                        "vorname": "Cassi",
+                        "geburtsdatum": "31.08.2020",
+                        "semihj": 3,
+                        "semipu": 0,
+                        "semithema1": "Aenean lectus.",
+                        "semithema2": "In hac habitasse platea dictumst.",
+                        "prnr": 5
+                    },
+                    {
+                        "nachname": "Linskey",
+                        "vorname": "Catlee",
+                        "geburtsdatum": "14.11.2019",
+                        "semihj": 6,
+                        "semipu": 0,
+                        "semithema1": "Nulla suscipit ligula in lacus.",
+                        "semithema2": "Nulla facilisi.",
+                        "prnr": 4
+                    },
+                    {
+                        "nachname": "Brader",
+                        "vorname": "Jarrad",
+                        "geburtsdatum": "01.11.2019",
+                        "semihj": 4,
+                        "semipu": 0,
+                        "semithema1": "Vestibulum ac est lacinia nisi venenatis tristique.",
+                        "semithema2": "Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",
+                        "prnr": 4
+                    },
+                    {
+                        "nachname": "Reuven",
+                        "vorname": "Edvard",
+                        "geburtsdatum": "05.06.2020",
+                        "semihj": 5,
+                        "semipu": 0,
+                        "semithema1": "Proin risus.",
+                        "semithema2": "Suspendisse potenti.",
+                        "prnr": 1
+                    }
+                ]
+            }
+        }
+    }
+}
