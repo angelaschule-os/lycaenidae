@@ -1,0 +1,223 @@
+<?xml version="1.0"?>
+<abiextern>
+  <kopf>
+    <schulname>Angelaschule Osnabrück</schulname>
+    <schulort>Osnabrück</schulort>
+    <bundesland>Ni</bundesland>
+    <abiversion>Indiware Unterrichtsplaner Version 5 (5.05.014)</abiversion>
+  </kopf>
+  <kurse>
+    <kurs>
+      <kurzform>bi3</kurzform>
+      <langform>Biologie Kurs 3 (grundl. Niveau)</langform>
+      <kursart>G</kursart>
+      <semithema></semithema>
+      <modsemi>1</modsemi>
+      <modkursthema>1</modkursthema>
+      <kursleiter>BIM</kursleiter>
+      <kurshalbjahre>
+        <hj1>1</hj1>
+      </kurshalbjahre>
+      <schueler>
+        <nachname>McKeveney</nachname>
+        <vorname>Justis</vorname>
+        <geburtsdatum>06.12.2019</geburtsdatum>
+        <semihj>4</semihj>
+        <semipu>1</semipu>
+        <semithema1>Donec quis orci eget orci vehicula condimentum.</semithema1>
+        <semithema2>Integer tincidunt ante vel ipsum.</semithema2>
+        <prnr>2</prnr>
+      </schueler>
+      <schueler>
+        <nachname>Pablos</nachname>
+        <vorname>Alec</vorname>
+        <geburtsdatum>23.11.2019</geburtsdatum>
+        <semihj>5</semihj>
+        <semipu>1</semipu>
+        <semithema1>Etiam justo.</semithema1>
+        <semithema2>Suspendisse ornare consequat lectus.</semithema2>
+        <prnr>4</prnr>
+      </schueler>
+      <schueler>
+        <nachname>Styant</nachname>
+        <vorname>Oates</vorname>
+        <geburtsdatum>25.07.2020</geburtsdatum>
+        <semihj>9</semihj>
+        <semipu>0</semipu>
+        <semithema1>Praesent lectus.</semithema1>
+        <semithema2>Vestibulum rutrum rutrum neque.</semithema2>
+        <prnr>1</prnr>
+      </schueler>
+      <schueler>
+        <nachname>Macon</nachname>
+        <vorname>Marina</vorname>
+        <geburtsdatum>27.11.2019</geburtsdatum>
+        <semihj>7</semihj>
+        <semipu>1</semipu>
+        <semithema1>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est.</semithema1>
+        <semithema2>Sed vel enim sit amet nunc viverra dapibus.</semithema2>
+        <prnr>6</prnr>
+      </schueler>
+      <schueler>
+        <nachname>Dixon</nachname>
+        <vorname>Gusty</vorname>
+        <geburtsdatum>22.12.2019</geburtsdatum>
+        <semihj>2</semihj>
+        <semipu>1</semipu>
+        <semithema1>Praesent blandit lacinia erat.</semithema1>
+        <semithema2>Nunc rhoncus dui vel sem.</semithema2>
+        <prnr>3</prnr>
+      </schueler>
+      <schueler>
+        <nachname>Villa</nachname>
+        <vorname>Arlan</vorname>
+        <geburtsdatum>15.05.2020</geburtsdatum>
+        <semihj>1</semihj>
+        <semipu>1</semipu>
+        <semithema1>Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo.</semithema1>
+        <semithema2>Donec semper sapien a libero.</semithema2>
+        <prnr>5</prnr>
+      </schueler>
+      <schueler>
+        <nachname>Sully</nachname>
+        <vorname>Rubia</vorname>
+        <geburtsdatum>19.08.2020</geburtsdatum>
+        <semihj>5</semihj>
+        <semipu>0</semipu>
+        <semithema1>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam.</semithema1>
+        <semithema2>Donec ut dolor.</semithema2>
+        <prnr>5</prnr>
+      </schueler>
+      <schueler>
+        <nachname>Klimaszewski</nachname>
+        <vorname>Rafaelita</vorname>
+        <geburtsdatum>10.08.2020</geburtsdatum>
+        <semihj>8</semihj>
+        <semipu>0</semipu>
+        <semithema1>Nulla facilisi.</semithema1>
+        <semithema2>Nulla ut erat id mauris vulputate elementum.</semithema2>
+        <prnr>1</prnr>
+      </schueler>
+      <schueler>
+        <nachname>Jandl</nachname>
+        <vorname>Gibb</vorname>
+        <geburtsdatum>22.09.2019</geburtsdatum>
+        <semihj>5</semihj>
+        <semipu>0</semipu>
+        <semithema1>Curabitur in libero ut massa volutpat convallis.</semithema1>
+        <semithema2>Aliquam sit amet diam in magna bibendum imperdiet.</semithema2>
+        <prnr>2</prnr>
+      </schueler>
+      <schueler>
+        <nachname>Illing</nachname>
+        <vorname>Bendick</vorname>
+        <geburtsdatum>19.02.2020</geburtsdatum>
+        <semihj>3</semihj>
+        <semipu>0</semipu>
+        <semithema1>Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci.</semithema1>
+        <semithema2>Vestibulum sed magna at nunc commodo placerat.</semithema2>
+        <prnr>1</prnr>
+      </schueler>
+      <schueler>
+        <nachname>Esslemont</nachname>
+        <vorname>Eran</vorname>
+        <geburtsdatum>09.02.2020</geburtsdatum>
+        <semihj>7</semihj>
+        <semipu>1</semipu>
+        <semithema1>Donec posuere metus vitae ipsum.</semithema1>
+        <semithema2>Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis.</semithema2>
+        <prnr>1</prnr>
+      </schueler>
+      <schueler>
+        <nachname>Bodicum</nachname>
+        <vorname>Cicily</vorname>
+        <geburtsdatum>01.10.2019</geburtsdatum>
+        <semihj>7</semihj>
+        <semipu>1</semipu>
+        <semithema1>Donec ut mauris eget massa tempor convallis.</semithema1>
+        <semithema2>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam.</semithema2>
+        <prnr>4</prnr>
+      </schueler>
+      <schueler>
+        <nachname>Scullin</nachname>
+        <vorname>Jarrod</vorname>
+        <geburtsdatum>25.09.2019</geburtsdatum>
+        <semihj>7</semihj>
+        <semipu>1</semipu>
+        <semithema1>Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue.</semithema1>
+        <semithema2>Donec ut mauris eget massa tempor convallis.</semithema2>
+        <prnr>5</prnr>
+      </schueler>
+      <schueler>
+        <nachname>Bouzan</nachname>
+        <vorname>Melli</vorname>
+        <geburtsdatum>26.03.2020</geburtsdatum>
+        <semihj>8</semihj>
+        <semipu>1</semipu>
+        <semithema1>Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo.</semithema1>
+        <semithema2>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam.</semithema2>
+        <prnr>2</prnr>
+      </schueler>
+      <schueler>
+        <nachname>Guilford</nachname>
+        <vorname>Rufus</vorname>
+        <geburtsdatum>10.05.2020</geburtsdatum>
+        <semihj>3</semihj>
+        <semipu>1</semipu>
+        <semithema1>Aenean sit amet justo.</semithema1>
+        <semithema2>Nullam sit amet turpis elementum ligula vehicula consequat.</semithema2>
+        <prnr>6</prnr>
+      </schueler>
+      <schueler>
+        <nachname>Asquez</nachname>
+        <vorname>Barnaby</vorname>
+        <geburtsdatum>28.04.2020</geburtsdatum>
+        <semihj>2</semihj>
+        <semipu>0</semipu>
+        <semithema1>Nulla justo.</semithema1>
+        <semithema2>Donec semper sapien a libero.</semithema2>
+        <prnr>2</prnr>
+      </schueler>
+      <schueler>
+        <nachname>Veschambes</nachname>
+        <vorname>Cassi</vorname>
+        <geburtsdatum>31.08.2020</geburtsdatum>
+        <semihj>3</semihj>
+        <semipu>0</semipu>
+        <semithema1>Aenean lectus.</semithema1>
+        <semithema2>In hac habitasse platea dictumst.</semithema2>
+        <prnr>5</prnr>
+      </schueler>
+      <schueler>
+        <nachname>Linskey</nachname>
+        <vorname>Catlee</vorname>
+        <geburtsdatum>14.11.2019</geburtsdatum>
+        <semihj>6</semihj>
+        <semipu>0</semipu>
+        <semithema1>Nulla suscipit ligula in lacus.</semithema1>
+        <semithema2>Nulla facilisi.</semithema2>
+        <prnr>4</prnr>
+      </schueler>
+      <schueler>
+        <nachname>Brader</nachname>
+        <vorname>Jarrad</vorname>
+        <geburtsdatum>01.11.2019</geburtsdatum>
+        <semihj>4</semihj>
+        <semipu>0</semipu>
+        <semithema1>Vestibulum ac est lacinia nisi venenatis tristique.</semithema1>
+        <semithema2>Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.</semithema2>
+        <prnr>4</prnr>
+      </schueler>
+      <schueler>
+        <nachname>Reuven</nachname>
+        <vorname>Edvard</vorname>
+        <geburtsdatum>05.06.2020</geburtsdatum>
+        <semihj>5</semihj>
+        <semipu>0</semipu>
+        <semithema1>Proin risus.</semithema1>
+        <semithema2>Suspendisse potenti.</semithema2>
+        <prnr>1</prnr>
+      </schueler>
+    </kurs>
+  </kurse>
+</abiextern>
